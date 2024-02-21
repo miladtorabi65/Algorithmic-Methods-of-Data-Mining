@@ -18,4 +18,6 @@ The repository has the following files and folders:
 * __`main.ipynb`__
     > The Jupyter notebook with the solutions to all the questions, containing the graph analysis and both backend and frontend implementations. The cells are already executed.
 * __`Other`__
-    > A folder containing `CommandLine.sh` The command line scripts used to answer the questions and the saved format of the citation graph.
+    > A folder containing `CommandLine.sh` The command line scripts used to answer the CLQ questions.
+    > `citation_graph.graphml` the saved format of the citation graph.
+    > `sorted_sliced_10,000_data` the slice of the top 10,000 papers with the highest citations.
