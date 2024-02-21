@@ -17,7 +17,5 @@ The repository has the following files and folders:
 
 * __`main.ipynb`__
     > The Jupyter notebook with the solutions to all the questions, containing the graph analysis and both backend and frontend implementations. The cells are already executed.
-* __`CommandLine.sh`__
-    > The command line scripts used to answer the questions.
 * __`Other`__
-    > A folder containing CLQ outupts and other images used to solve clq.
+    > A folder containing `CommandLine.sh` The command line scripts used to answer the questions and the saved format of the citation graph.
