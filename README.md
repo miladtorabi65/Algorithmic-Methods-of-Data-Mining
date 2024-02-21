@@ -9,7 +9,6 @@ The main goal of this project is to dig deep into graphs using analysis techniqu
     > miladtorabi65@gmail.com</p>
     > Github: @miladtorabi65
 * Riccardo Corrente</p>
-    > corrente.1964746@studenti.uniroma1.it</p>
     > Github: RiccardoCorr
 * Nadir Nuralin</p>
     > nadir.nuralin@alumni.nu.edu.kz</p>
